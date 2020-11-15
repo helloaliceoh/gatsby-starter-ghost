@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://kind-mcclintock-b2d902.herokuapp.com",
+    "contentApiKey": "4d57e7fda280b0407fd496c25c"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://kind-mcclintock-b2d902.herokuapp.com",
+    "contentApiKey": "4d57e7fda280b0407fd496c25c"
   }
 }
